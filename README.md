@@ -1,6 +1,13 @@
 # MCP Server on AVAIL DA
-- Interact with the avail DA from claude using natural language prompts 
+Interact with the avail DA via Claude Desktop using natural language prompts 
 
+## Work In Progress
+- Currently supports sending data
+### Future Work 
+- Query transactions on Avail DA
+- Integrate Avail Nexus 
+- Seamless cross-chain transfers 
+ 
 ## Setup 
 ### Running the local avail-client handler backend 
 ```sh
