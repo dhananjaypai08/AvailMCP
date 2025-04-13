@@ -1,0 +1,37 @@
+avail-client/.env
+avail-client/.DS_Store
+avail-mcp/.DS_Store
+avail-mcp/.env
+.DS_Store
+
+avail-mcp/__pycache__/
+
+cat > .gitignore << 'EOF'
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+**/env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Python dot files
+.python-version
+.coverage
+.pytest_cache/
+.mypy_cache/
+
+# OS specific
+.DS_Store
+.idea/
+.vscode/
+EOF
