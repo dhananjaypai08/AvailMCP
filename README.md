@@ -3,8 +3,9 @@ Interact with the avail DA via Claude Desktop using natural language prompts
 
 ## Work In Progress
 - Currently supports sending data
-### Future Work 
 - Query transactions on Avail DA
+### Future Work 
+- Node deployment
 - Integrate Avail Nexus 
 - Seamless cross-chain transfers 
  
